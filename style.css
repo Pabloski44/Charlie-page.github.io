@@ -1,7 +1,7 @@
 /* Encabezado */
 
 header {
-    background-image: url('/imagenes/fondo.png');
+    background-image: url('imagenes/fondo.png');
     background-size: cover;
     background-position: center;
     color: white;
